@@ -1,0 +1,45 @@
+body{
+    background-color: #030132;
+}
+
+.conteudo{
+    background-color: #030132;
+    color: white;
+    height: 100%;
+    margin: 30px 0px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+section{
+    position: absolute;
+    left: 50%;
+    transform: translate(-50%);
+}
+
+img{
+    border-radius: 5px;
+}
+
+button{
+    padding: 12px 30px;
+    border-radius: 5px;
+    border: none;
+    cursor: pointer;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.primario{
+    background-color: #199419;
+}
+
+.secundario{
+    background-color: #9b1212;
+}
+
+input{
+    border: none;
+    padding: 12px 2px;
+    margin-right: 3px;
+    border-radius: 5px;
+}
